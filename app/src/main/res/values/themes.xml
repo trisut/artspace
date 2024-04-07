@@ -1,0 +1,5 @@
+<resources>
+
+    <style name="Theme.Artspace" parent="android:Theme.Material.Light.NoActionBar" />
+
+</resources>
